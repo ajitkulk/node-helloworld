@@ -1,0 +1,14 @@
+{
+  "name": "node-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World app in Node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ajit Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
